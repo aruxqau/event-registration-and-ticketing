@@ -1,16 +1,4 @@
-
-  # Event Registration and Ticketing
-
-  This is a code bundle for Event Registration and Ticketing. The original project is available at https://www.figma.com/design/ejS8LuRbUvseXoaueGOOMs/Event-Registration-and-Ticketing.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
-
-  # Документация для разработчиков
+# Документация для разработчиков
 
 ## 📁 Структура проекта
 
